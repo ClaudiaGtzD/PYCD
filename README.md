@@ -22,6 +22,9 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 - Modelos avanzados de representación de texto
 - Análisis de sentimientos utilizando técnicas de análisis de texto.
 
+- [Tarea 2: Análisis semántico, de sentimientos y emociones del libro PDF](./Semana%202/PYCD_Tarea02_Análisis_semántico_y_sentimientos.pdf)
+- [Tarea 2: Análisis semántico, de sentimientos y emociones del libro CODE](./Semana%202/Tarea02_Análisis%20de%20sentimientos.ipynb)
+
 ### Sesión 3: Análisis de Texto. Clasificación
 - Aplicaciones de análisis de texto en la clasificación de documentos.
 - Ejemplos prácticos y casos de estudio.
