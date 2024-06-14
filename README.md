@@ -29,6 +29,9 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 - Aplicaciones de análisis de texto en la clasificación de documentos.
 - Ejemplos prácticos y casos de estudio.
 
+- [Tarea 3: Identificación de autores por técnicas de agrupamiento PDF](./Semana%203/PYCD_Tarea03_Identificación_de_autores_Clusterizacion.pdf)
+- [Tarea 3: Identificación de autores por técnicas de agrupamiento CODE](./Semana%203/Tarea%2003.ipynb)
+
 ### Sesión 4: Análisis de Imágenes
 - Introducción al análisis de imágenes en Ciencia de Datos.
 - Extracción de características y representación de imágenes.
@@ -36,6 +39,10 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 ### Sesión 5: Análisis de Imágenes
 - Redes neuronales convolucionales (CNN) para clasificación de imágenes.
 - Transfer Learning y Fine-tuning en modelos de visión por computadora.
+
+- [Tarea 4: Clasificación de imágenes usando Transfer Learning PDF](./Semana%205/PYCD_Tarea04_Clasificación_de_imágenes_usando_Transfer_Learning.pdf)
+- [Tarea 4: Clasificación de imágenes usando Transfer Learning DenseNet201 CODE](./Semana%205/Tarea%2004%20%20DenseNet201.ipynb)
+- [Tarea 4: Clasificación de imágenes usando Transfer Learning VGG16 CODE](./Semana%205/Tarea%2004%20VGG16.ipynb)
 
 ### Sesión 6: Análisis de Imágenes
 - Aplicaciones de análisis de imágenes: detección de objetos, segmentación semántica.
