@@ -48,9 +48,14 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 - Aplicaciones de análisis de imágenes: detección de objetos, segmentación semántica.
 - Ejemplos de casos prácticos.
 
+- [Tarea 5: Streamlit para Analizar libros](./Semana%206/main.py)
+
 ### Sesión 7: Análisis de Audio
 - Introducción al procesamiento de audio en Ciencia de Datos.
 - Representación de señales de audio
+
+- [Tarea 6: Detección de Plagio PDF](./Semana%207/PYCD_Tarea07_Detección_de_Plagio_Musical.pdf)
+- [Tarea 6: Detección de Plagio CODE](./Semana%207/Tarea%20Semana%207.ipynb)
 
 ### Sesión 8: Análisis de Audio
 - Reconocimiento de voz y análisis de habla.
