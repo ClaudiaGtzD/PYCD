@@ -70,3 +70,4 @@ Este es un repositorio público dedicado a la publicación de las tareas de la m
 - Uso de frameworks como Flask para construir un servicio web.
 
 ### Sesión 11: Entrega de proyecto final
+- [Proyecto Final: Análisis estadísticos de libros](https://huggingface.co/spaces/ClaudiaGtzD/AnalizadorLibros)
